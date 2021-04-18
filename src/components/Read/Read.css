@@ -1,0 +1,11 @@
+.read-style{
+    border: 2px dashed rgb(71, 135, 255);
+    border-radius: 40px 10px;
+    padding: 30px;
+    background-color: rgb(248, 247, 246);
+    
+}
+.read-style span{
+    color:rgb(18, 131, 160);
+    padding:10px
+}
